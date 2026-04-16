@@ -1,11 +1,10 @@
 package DTO;
 
 public class UsuarioDTO {
-    //Atributos
+    
     private int id_usuario;
     private String nome_usuario, login_usuario, senha_usuario, perfil_usuario;
     
-    // setters
     public void setId_usuario(int id_usuario) {
         this.id_usuario = id_usuario;
     }
@@ -21,8 +20,6 @@ public class UsuarioDTO {
     public void setSenha_usuario(String senha_usuario) {
         this.senha_usuario = senha_usuario;
     }
-    
-    //getters
     public int getId_usuario() {
         return id_usuario;
     }
