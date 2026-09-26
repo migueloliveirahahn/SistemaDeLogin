@@ -9,3 +9,8 @@ caso vc esteja lendo isso é pq eu ainda não fiz mas até segunda feira de noit
 
 
 obrigado pela compreensão
+
+
+eu só entreguei pra ir atualizando conforme eu faço, eu prefiro trabalhar assim
+
+- Miguel Oliveira Hahn
